@@ -9,6 +9,10 @@
 资阳
 凤凰中文,http://139.201.170.142:4022/udp/239.93.28.9:2192
 凤凰资讯,http://139.201.170.142:4022/udp/239.93.28.4:2191
+揭阳
+凤凰资讯,http://gd4.998877.site:8081/hls/36/index.m3u8
+凤凰中文,http://gd4.998877.site:8081/hls/37/index.m3u8
+凤凰香港,http://gd4.998877.site:8081/hls/38/index.m3u8
 东森新闻,http://lhq-cctv.8866.org:18181/tsfile/live/1201_1.m3u8?
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
 
